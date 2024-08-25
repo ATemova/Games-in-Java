@@ -1,2 +1,2 @@
-# Games-in-Java
-10 unpublished and easy games in java to make
+# Games in Java programming language
+Unpublished and easy games in java to make
